@@ -1,2 +1,2 @@
 
-![image](images/ArchitectureDemandProcessAlignment.png)
+![image](/images/ArchitectureDemandProcessAlignment.png)
